@@ -99,7 +99,7 @@ Example tiny stack:
   It is generally recommended that you keep `tini` installed. It's extremely
   low-overhead. That said, if you really, really know what you're doing and your
   application is properly handling signals and reaping child processes then you
-  may set `$BP_MOVE_TINI_DISABLED=true` and the buildpacks will skip installing
+  may set `$BP_CAIRO_TINI_DISABLED=true` and the buildpacks will skip installing
   `tini.`.
 
 - What's the difference between using a builder and using the composite
