@@ -5,6 +5,7 @@ enable the building of a Cairo-based application.
 
 ## Included Buildpacks
 
+- [`amp-buildpacks/scarb`](https://github.com/amp-buildpacks/scarb)(WIP)
 - [`amp-buildpacks/starknet`](https://github.com/amp-buildpacks/starknet)(WIP)
 - [`paketo-buildpacks/procfile`](https://github.com/paketo-buildpacks/procfile)
 
