@@ -4,7 +4,9 @@ description = "A sample Builder for using Cairo related CNBs"
   id = "amp-buildpacks/scarb"
   uri = "docker://ghcr.io/amp-buildpacks/scarb:0.1.0"
 
-
+ [[buildpacks]]
+  id = "amp-buildpacks/starknet"
+  uri = "docker://ghcr.io/amp-buildpacks/starknet:0.1.0" 
 
 [[buildpacks]]
   id = "paketo-buildpacks/procfile"
@@ -14,6 +16,9 @@ description = "A sample Builder for using Cairo related CNBs"
 
   [[order.group]]
     id = "amp-buildpacks/scarb"
+
+  [[order.group]]
+    id = "amp-buildpacks/starknet"
 
   [[order.group]]
     id = "paketo-buildpacks/procfile"
