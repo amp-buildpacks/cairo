@@ -18,7 +18,7 @@ api = "0.7"
 [[order]]
 
   [[order.group]]
-    id = "amp-buildpacks/starknet"
+    id = "amp-buildpacks/scarb"
     version = "0.1.0"
 
 
