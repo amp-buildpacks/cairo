@@ -1,0 +1,7 @@
+[[dependencies]]
+repo = "amp-buildpacks/scarb"
+version = "0.2.0"
+
+[[dependencies]]
+repo = "amp-buildpacks/starknet"
+version = "0.1.0"
