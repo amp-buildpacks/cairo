@@ -1,9 +1,9 @@
 
 [[dependencies]]
-  uri = "docker://ghcr.io/amp-buildpacks/scarb:0.2.0"
+  uri = "docker://ghcr.io/amp-buildpacks/scarb:0.3.0"
 
 [[dependencies]]
-  uri = "docker://ghcr.io/amp-buildpacks/starknet:0.1.0"
+  uri = "docker://ghcr.io/amp-buildpacks/starknet:1.0.0"
 
 
 [[dependencies]]
