@@ -1,13 +1,13 @@
 
 [[dependencies]]
-  uri = "docker://ghcr.io/amp-buildpacks/scarb:0.2.0"
+  uri = "docker://ghcr.io/amp-buildpacks/scarb:0.3.1"
 
 [[dependencies]]
-  uri = "docker://ghcr.io/amp-buildpacks/starknet:0.1.0"
+  uri = "docker://ghcr.io/amp-buildpacks/starknet:1.0.0"
 
 
 [[dependencies]]
-  uri = "docker://gcr.io/paketo-buildpacks/procfile:5.6.8"
+  uri = "docker://gcr.io/paketo-buildpacks/procfile:5.9.0"
 
 [[targets]]
   arch = "amd64"
