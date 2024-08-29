@@ -5,7 +5,7 @@
   uri = "docker://ghcr.io/amp-buildpacks/starknet:1.0.8"
 
 [[dependencies]]
-  uri = "docker://gcr.io/paketo-buildpacks/procfile:5.9.1"
+  uri = "docker://gcr.io/paketo-buildpacks/procfile:5.9.2"
 
 [[targets]]
   arch = "amd64"
