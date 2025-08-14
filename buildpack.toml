@@ -37,7 +37,7 @@ api = "0.8"
 
   [[order.group]]
     id = "amp-buildpacks/starknet"
-    version = "1.2.5"
+    version = "1.2.6"
 
   [[order.group]]
     id = "paketo-buildpacks/procfile"
