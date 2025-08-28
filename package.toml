@@ -2,7 +2,7 @@
   uri = "docker://ghcr.io/amp-buildpacks/scarb:0.5.6"
 
 [[dependencies]]
-  uri = "docker://ghcr.io/amp-buildpacks/starknet:1.2.6"
+  uri = "docker://ghcr.io/amp-buildpacks/starknet:1.2.7"
 
 [[dependencies]]
   uri = "docker://docker.io/paketobuildpacks/procfile:5.11.2"
